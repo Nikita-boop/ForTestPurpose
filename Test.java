@@ -1,7 +1,6 @@
 class Test {
 	public static void main(String... args) {
 		// new comment
-		// 4 commit
 		System.out.println("First commit, modify");
 		System.out.println("Second commit");
 		print("Hello Nick");
