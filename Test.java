@@ -3,6 +3,7 @@ class Test {
 		// new comment
 		// for test path, amend?
 		// from another folder
+		// one more time
 		System.out.println("First commit, modify");
 		System.out.println("Second commit");
 		print("Hello Nick");
