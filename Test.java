@@ -1,8 +1,6 @@
 class Test {
 	public static void main(String... args) {
-		// new comment
-		// for test path, amend?
-		// from another folder
+		// new comments
 		// one more time
 		System.out.println("First commit, modify");
 		System.out.println("Second commit");
